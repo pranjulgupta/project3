@@ -1,0 +1,555 @@
+Error: Enter registered contact number! If not registered, please register
+    at userDB.checkUser.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Enter registered contact number! If not registered, please register
+    at userDB.checkUser.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Incorrect password
+    at userDB.getPassword.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Incorrect password
+    at userDB.getPassword.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Incorrect password
+    at userDB.getPassword.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Incorrect password
+    at userDB.getPassword.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Incorrect password
+    at userDB.getPassword.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Incorrect password
+    at userDB.getPassword.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Incorrect password
+    at userDB.getPassword.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Incorrect password
+    at userDB.getPassword.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Incorrect password
+    at userDB.getPassword.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Incorrect password
+    at userDB.getPassword.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Incorrect password
+    at userDB.getPassword.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Incorrect password
+    at userDB.getPassword.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Incorrect password
+    at userDB.getPassword.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Incorrect password
+    at userDB.getPassword.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Incorrect password
+    at userDB.getPassword.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Incorrect password
+    at userDB.getPassword.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Incorrect password
+    at userDB.getPassword.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Incorrect password
+    at userDB.getPassword.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Incorrect password
+    at userDB.getPassword.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Incorrect password
+    at userDB.getPassword.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Incorrect password
+    at userDB.getPassword.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Incorrect password
+    at userDB.getPassword.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Incorrect password
+    at userDB.getPassword.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Incorrect password
+    at userDB.getPassword.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Incorrect password
+    at userDB.getPassword.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Incorrect password
+    at userDB.getPassword.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Incorrect password
+    at userDB.getPassword.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Incorrect password
+    at userDB.getPassword.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Incorrect password
+    at userDB.getPassword.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Incorrect password
+    at userDB.getPassword.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Incorrect password
+    at userDB.getPassword.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Incorrect password
+    at userDB.getPassword.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Incorrect password
+    at userDB.getPassword.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Incorrect password
+    at userDB.getPassword.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Incorrect password
+    at userDB.getPassword.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Enter registered contact number! If not registered, please register
+    at userDB.checkUser.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Incorrect password
+    at userDB.getPassword.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Incorrect password
+    at userDB.getPassword.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Incorrect password
+    at userDB.getPassword.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Incorrect password
+    at userDB.getPassword.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Incorrect password
+    at userDB.getPassword.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Incorrect password
+    at userDB.getPassword.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Incorrect password
+    at userDB.getPassword.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Incorrect password
+    at userDB.getPassword.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Incorrect password
+    at userDB.getPassword.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Incorrect password
+    at userDB.getPassword.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Incorrect password
+    at userDB.getPassword.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Incorrect password
+    at userDB.getPassword.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Incorrect password
+    at userDB.getPassword.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Incorrect password
+    at userDB.getPassword.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Incorrect password
+    at userDB.getPassword.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Enter registered contact number! If not registered, please register
+    at userDB.checkUser.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Enter registered contact number! If not registered, please register
+    at userDB.checkUser.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Enter registered contact number! If not registered, please register
+    at userDB.checkUser.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Incorrect password
+    at userDB.getPassword.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Incorrect password
+    at userDB.getPassword.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Email Not Registered
+    at userDB.checkUserByEmail.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:11:13)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+TypeError: userservice.registerUser is not a function
+    at F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\routes\userRouter.js:13:14
+    at Layer.handle [as handle_request] (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:174:3)
+    at router (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:317:13)
+    at F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:275:10)
+    at requestLogger (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\utilities\RequestLogger.js:8:5)
+Error: Already Registered User
+    at userDB.registerUser.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:11:14)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Already Registered User
+    at userDB.registerUser.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:11:14)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+ReferenceError: number is not defined
+    at collection.distinct.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:15:4)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Email Not Registered
+    at userDB.checkUserByEmail.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:25:13)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Already Registered User
+    at userDB.registerUser.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:11:14)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Already Registered User
+    at userDB.registerUser.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:11:14)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Already Registered User
+    at userDB.registerUser.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:11:14)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Already Registered User
+    at userDB.registerUser.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:11:14)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Email Not Registered
+    at userDB.checkUserByEmail.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:39:23)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Already Registered User
+    at userDB.registerUser.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:11:23)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Email Not Registered
+    at userDB.checkUserByEmail.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:39:23)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Email Not Registered
+    at userDB.checkUserByEmail.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:39:23)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Email Not Registered
+    at userDB.checkUserByEmail.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:39:23)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Email Not Registered
+    at userDB.checkUserByEmail.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:39:23)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Email Not Registered
+    at userDB.checkUserByEmail.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:39:23)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Email Not Registered
+    at userDB.checkUserByEmail.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:39:23)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Email Not Registered
+    at userDB.checkUserByEmail.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:39:23)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Email Not Registered
+    at userDB.checkUserByEmail.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:39:23)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Already Registered User
+    at userDB.registerUser.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:11:23)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Email Not Registered
+    at userDB.checkUserByEmail.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:39:23)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Email Not Registered
+    at userDB.checkUserByEmail.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:39:23)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Incorrect password
+    at userDB.getPassword.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:56:31)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Already Registered User
+    at userDB.registerUser.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:11:23)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Incorrect password
+    at userDB.getPassword.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:56:31)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Incorrect password
+    at userDB.getPassword.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:56:31)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Email Not Registered
+    at userDB.checkUserByEmail.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:39:23)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at new CastError (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\error\cast.js:29:11)
+    at model.Query.exec (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\query.js:4341:21)
+    at model.Query.Query.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\query.js:4433:15)
+    at connection.getUserCollection.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:67:63)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at new CastError (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\error\cast.js:29:11)
+    at model.Query.exec (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\query.js:4341:21)
+    at model.Query.Query.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\query.js:4433:15)
+    at connection.getUserCollection.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:67:63)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at new CastError (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\error\cast.js:29:11)
+    at model.Query.exec (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\query.js:4341:21)
+    at model.Query.Query.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\query.js:4433:15)
+    at connection.getUserCollection.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:67:63)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at new CastError (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\error\cast.js:29:11)
+    at model.Query.exec (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\query.js:4341:21)
+    at model.Query.Query.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\query.js:4433:15)
+    at connection.getUserCollection.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:67:63)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at new CastError (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\error\cast.js:29:11)
+    at model.Query.exec (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\query.js:4341:21)
+    at model.Query.Query.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\query.js:4433:15)
+    at connection.getUserCollection.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:67:63)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at new CastError (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\error\cast.js:29:11)
+    at model.Query.exec (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\query.js:4341:21)
+    at model.Query.Query.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\query.js:4433:15)
+    at connection.getUserCollection.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:67:63)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at new CastError (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\error\cast.js:29:11)
+    at model.Query.exec (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\query.js:4341:21)
+    at model.Query.Query.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\query.js:4433:15)
+    at connection.getUserCollection.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:67:63)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at new CastError (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\error\cast.js:29:11)
+    at model.Query.exec (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\query.js:4341:21)
+    at model.Query.Query.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\query.js:4433:15)
+    at connection.getUserCollection.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:67:63)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at new CastError (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\error\cast.js:29:11)
+    at model.Query.exec (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\query.js:4341:21)
+    at model.Query.Query.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\query.js:4433:15)
+    at connection.getUserCollection.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:67:63)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Incorrect password
+    at userDB.getPassword.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:87:31)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: No Booking Found For Your Account
+    at userDB.getViewBooking.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:43:23)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: No Booking Found For Your Account
+    at userDB.getViewBooking.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:43:23)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: No Booking Found For Your Account
+    at userDB.getViewBooking.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:43:23)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: No Booking Found For Your Account
+    at userDB.getViewBooking.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:43:23)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Booking Can Not Be Done
+    at userDB.bookPackage.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:28:23)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Booking Can Not Be Done
+    at userDB.bookPackage.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:28:23)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Booking Can Not Be Done
+    at userDB.bookPackage.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:28:23)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: No Booking Found For Your Account
+    at userDB.getViewBooking.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:43:23)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+TypeError: userDB.getCancleBooking is not a function
+    at Object.userService.getCancleBooking (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:51:19)
+    at router.put (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\routes\bookRouter.js:26:17)
+    at Layer.handle [as handle_request] (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:281:22
+    at param (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:354:14)
+    at param (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:365:14)
+    at param (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:410:3)
+    at next (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:174:3)
+    at router (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:317:13)
+Error: No Booking Found For Your Account
+    at userDB.getCancleBooking.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:56:23)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: No Booking Found For Your Account
+    at userDB.getCancleBooking.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:56:23)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: No Booking Found 
+    at userDB.getCancleBooking.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:56:23)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: No Booking Found 
+    at userDB.getCancleBooking.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:58:23)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: No Booking Found 
+    at userDB.getCancleBooking.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:58:23)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: No Booking Found For Your Account
+    at userDB.getViewBooking.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:43:23)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Email Not Registered
+    at userDB.checkUserByEmail.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:98:23)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: No Booking Found For Your Account
+    at userDB.getViewBooking.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:43:23)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: No Booking Found 
+    at userDB.getCancleBooking.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:58:23)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Booking Can Not Be Done
+    at userDB.bookPackage.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:28:23)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Booking Can Not Be Done
+    at userDB.bookPackage.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:28:23)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+ReferenceError: email is not defined
+    at Object.validator.validateContactNo (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\utilities\validator.js:12:5)
+    at Object.userService.registerUser (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:10:15)
+    at F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\routes\userRouter.js:13:14
+    at Layer.handle [as handle_request] (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:174:3)
+    at router (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:317:13)
+    at F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:335:12)
+Error: Enter registered contact number! If not registered, please register
+    at userDB.checkUser.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:112:23)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+ReferenceError: email is not defined
+    at Object.validator.validateContactNo (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\utilities\validator.js:12:5)
+    at Object.userService.registerUser (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:10:15)
+    at F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\routes\userRouter.js:13:14
+    at Layer.handle [as handle_request] (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:174:3)
+    at router (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:317:13)
+    at F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:335:12)
+ReferenceError: email is not defined
+    at Object.validator.validateContactNo (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\utilities\validator.js:12:5)
+    at Object.userService.registerUser (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:10:15)
+    at F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\routes\userRouter.js:13:14
+    at Layer.handle [as handle_request] (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:174:3)
+    at router (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:317:13)
+    at F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:335:12)
+ReferenceError: email is not defined
+    at Object.validator.validateContactNo (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\utilities\validator.js:12:5)
+    at Object.userService.registerUser (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:10:15)
+    at F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\routes\userRouter.js:13:14
+    at Layer.handle [as handle_request] (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:174:3)
+    at router (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:317:13)
+    at F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:335:12)
+ReferenceError: email is not defined
+    at Object.validator.validateContactNo (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\utilities\validator.js:12:5)
+    at Object.userService.registerUser (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:10:15)
+    at F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\routes\userRouter.js:13:14
+    at Layer.handle [as handle_request] (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:174:3)
+    at router (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:317:13)
+    at F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:335:12)
+Error: Email Not Registered
+    at userDB.checkUserByEmail.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:104:23)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Email Not Registered
+    at userDB.checkUserByEmail.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:104:23)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: No Booking Found For Your Account
+    at userDB.getViewBooking.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:49:23)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Booking Can Not Be Done
+    at userDB.bookPackage.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:34:23)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Booking Can Not Be Done
+    at userDB.bookPackage.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:34:23)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Email Not Registered
+    at userDB.checkUserByEmail.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:104:23)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Incorrect password
+    at userDB.getPassword.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:121:31)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Incorrect password
+    at userDB.getPassword.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:121:31)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Already Registered User
+    at userDB.registerUser.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:18:23)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Booking Can Not Be Done
+    at userDB.bookPackage.then (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:34:23)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Error: Invalid EmailId
+    at Object.validator.validateEmail (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\utilities\validator.js:6:19)
+    at Object.userService.registerUser (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:15)
+    at F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\routes\userRouter.js:13:14
+    at Layer.handle [as handle_request] (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:174:3)
+    at router (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:317:13)
+    at F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:335:12)
+Error: Invalid Contact Number
+    at Object.validator.validateContactNo (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\utilities\validator.js:16:19)
+    at Object.userService.registerUser (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:10:15)
+    at F:\ReactJS\Code-ToTrainee\wanderlust-web-service\src\routes\userRouter.js:13:14
+    at Layer.handle [as handle_request] (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:174:3)
+    at router (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:317:13)
+    at F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\ReactJS\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:335:12)
